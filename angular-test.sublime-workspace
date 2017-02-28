@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-size"
+			],
+			[
 				"ge",
 				"generic"
 			],
@@ -54,10 +58,6 @@
 			[
 				"for",
 				"forms"
-			],
-			[
-				"font",
-				"font-weight"
 			],
 			[
 				"div",
@@ -416,11 +416,12 @@
 	"buffers":
 	[
 		{
-			"file": "js/angular.min.js",
+			"file": "src/index.html",
 			"settings":
 			{
-				"buffer_size": 166973,
-				"line_ending": "Unix"
+				"buffer_size": 799,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -472,12 +473,14 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Amar/Desktop/angular-2-template-master/app",
-		"/C/Users/Amar/Desktop/angular-2-template-master/app/ts",
-		"/C/Users/Amar/Desktop/angular-2-template-master/typings"
+		"/C/Users/Amar/Desktop/angular-test",
+		"/C/Users/Amar/Desktop/angular-test/src",
+		"/C/Users/Amar/Desktop/angular-test/src/js"
 	],
 	"file_history":
 	[
+		"/C/Users/Amar/Desktop/angular-test/index.html",
+		"/C/Users/Amar/Desktop/angular-test/js/angular.min.js",
 		"/C/Users/Amar/Desktop/angular-2-template-master/app/ts/app.component.ts",
 		"/C/Users/Amar/Desktop/angular-2-template-master/.typingsrc",
 		"/C/Users/Amar/Desktop/angular2-demo/package.json",
@@ -585,24 +588,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "js/angular.min.js",
+					"file": "src/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 166973,
+						"buffer_size": 799,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								639,
+								639
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
