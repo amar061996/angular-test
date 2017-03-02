@@ -1,3 +1,12 @@
 'use strict';
 
-angular.module('try', ['blogList']);
+angular.module('try', [
+	//extrenal
+	'ngResource',
+	'ngRoute',
+
+	//internal
+	'blogDetail',
+	'blogList',
+
+	]);
